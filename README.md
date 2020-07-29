@@ -1,4 +1,6 @@
-### Hi there 👋
+# I'm Sarah Jarque-Deakin (she/her) and I'm a developer 👋
+
+I currently work at <a href="starlingbank.com">Starling Bank</a> as part of their web team. 
 
 <!--
 **Sdeakin93/Sdeakin93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
