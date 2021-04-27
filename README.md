@@ -1,6 +1,14 @@
 # I'm Sarah Jarque-Deakin (she/her) and I'm a developer 👋
 
-I currently work at Starling Bank as part of their web team. 
+Previously Starling Bank. Currently looking for work in the United States 🇺🇸 as I am moving in early May!
+
+Fan of:
+- React
+- JavaScript
+- Accessibility
+- Mutual learning
+- Mentorships
+- Diversity
 
 I'm passionate about diversity, mentorships, and shared knowledge. 
 
