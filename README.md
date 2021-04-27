@@ -10,7 +10,7 @@ Fan of:
 - Mentorships
 - Diversity
 
-I'm passionate about diversity, mentorships, and shared knowledge. 
+Always willing to learn, always happy to talk through issues, big fan of pop culture.
 
 <!--
 **Sdeakin93/Sdeakin93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
