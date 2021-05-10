@@ -1,6 +1,7 @@
-# I'm Sarah Jarque-Deakin (she/her) and I'm a developer 👋
+# I'm Sarah Jarque-Deakin (she/her) 👋
 
-Previously Starling Bank. Currently looking for work in the United States 🇺🇸 as I am moving in early May!
+Currently Catch. Previously Starling Bank. 
+Brit in 🇺🇸
 
 Fan of:
 - React
