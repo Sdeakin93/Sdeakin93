@@ -10,6 +10,7 @@ Fan of:
 - Mutual learning
 - Mentorships
 - Diversity
+- Dua Lipa
 
 Always willing to learn, always happy to talk through issues, big fan of pop culture.
 
