@@ -4,6 +4,8 @@ Currently Catch. Previously Starling Bank.
 Brit in 🇺🇸
 
 Fan of:
+- SEO
+- Web optimization
 - React
 - JavaScript
 - Accessibility
