@@ -1,6 +1,6 @@
 # I'm Sarah Jarque-Deakin (she/her) 👋
 
-Currently Catch. Previously Starling Bank. 
+Currently TodayTix. Previously Catch, Starling Bank. 
 Brit in 🇺🇸
 
 Fan of:
@@ -14,7 +14,7 @@ Fan of:
 - Diversity
 - Dua Lipa
 
-Always willing to learn, always happy to talk through issues, big fan of pop culture.
+Always willing to learn, always wants to talk through issues, big fan of pop culture.
 
 <!--
 **Sdeakin93/Sdeakin93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
