@@ -9,8 +9,6 @@ Fan of:
 - React
 - JavaScript
 - Accessibility
-- Mutual learning
-- Mentorships
 - Diversity
 - Dua Lipa
 
