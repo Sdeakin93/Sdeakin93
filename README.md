@@ -1,4 +1,4 @@
-# I'm Sarah Jarque-Deakin (she/her) 👋
+# I'm Sarah (she/her) 👋
 
 Currently TodayTix. Previously Catch, Starling Bank. 
 Brit in 🇺🇸
@@ -9,8 +9,6 @@ Fan of:
 - React
 - JavaScript
 - Accessibility
-- Diversity
-- Dua Lipa
 
 Always willing to learn, always wants to talk through issues, big fan of pop culture.
 
