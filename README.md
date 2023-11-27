@@ -3,14 +3,6 @@
 Currently TodayTix. Previously Catch, Starling Bank. 
 Brit in 🇺🇸
 
-Fan of:
-- SEO
-- Web optimization
-- React
-- JavaScript
-- Accessibility
-
-Always willing to learn, always wants to talk through issues, big fan of pop culture.
 
 <!--
 **Sdeakin93/Sdeakin93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
