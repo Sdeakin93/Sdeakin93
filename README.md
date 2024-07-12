@@ -1,7 +1,6 @@
 # I'm Sarah (she/her) 👋
 
-Currently TodayTix. Previously Catch, Starling Bank. 
-Brit in 🇺🇸
+Currently Red Ventures. Previously TodayTix, Catch, Starling Bank. 
 
 
 <!--
