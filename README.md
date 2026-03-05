@@ -1,4 +1,4 @@
-# I'm Sarah (she/her) 👋
+# I'm Sarah 👋
 
 Currently Graphite. Previously Red Ventures, TodayTix, Catch, Starling Bank. 
 
