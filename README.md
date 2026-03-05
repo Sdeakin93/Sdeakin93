@@ -1,6 +1,6 @@
 # I'm Sarah (she/her) 👋
 
-Currently Red Ventures. Previously TodayTix, Catch, Starling Bank. 
+Currently Graphite. Previously Red Ventures, TodayTix, Catch, Starling Bank. 
 
 
 <!--
